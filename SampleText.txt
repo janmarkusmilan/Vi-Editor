@@ -1,0 +1,10 @@
+//This is a sample text
+//Sample keywords: new using float int
+#include <iostream>
+using namespace std;
+int main()
+{
+cout << "Hello World!" << endl;
+system("Pause");
+return 0;
+}
